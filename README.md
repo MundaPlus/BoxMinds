@@ -4,7 +4,13 @@
 
 The assistant is tuned for speed on everyday questions. Common requests are answered by skills in well under a second. Questions that have a real answer (service status, the time, a timer) never reach the language model, so it can't make the answer up.
 
-<!-- screenshots -->
+![Web page: a recorded meeting with its summary, action items and transcript](screenshots/meeting-summary.jpg)
+
+> Screenshots show the web page with invented demo meetings, reminders and room readings; no device or transcription host was connected.
+
+| Calendar | Day log |
+|---|---|
+| ![Upcoming reminders grouped by day](screenshots/calendar.jpg) | ![Room temperature and humidity, and everything the assistant was asked](screenshots/day-log.jpg) |
 
 ## Features
 
